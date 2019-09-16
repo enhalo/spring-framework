@@ -35,5 +35,8 @@ rootProject.name = "spring"
 rootProject.children.each {project ->
 	project.buildFileName = "${project.name}.gradle"
 }
+<<<<<<< HEAD
 include 'spring-analysis'
 
+=======
+>>>>>>> a6f4862f13f96026bad09d4f40de933035043433
